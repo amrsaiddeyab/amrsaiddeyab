@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 I build simple and practical Python projects and improve my problem-solving skills every day.
 
 ---
