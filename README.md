@@ -26,7 +26,7 @@ I build simple and practical Python projects and improve my problem-solving skil
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrsaiddeyab&show_icons=true&theme=tokyonight)
+![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrsaiddeyab&show_icons=true&theme=tokyonight)
 
 ---
 
